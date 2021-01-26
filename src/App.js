@@ -23,6 +23,7 @@ function App() {
   return (
     <main>
       <h1>Create React App {user}</h1>
+      <h2>test {REACT_APP_TARGET} </h2>
       <Router>
         <div>
           <nav>
